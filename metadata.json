@@ -1,0 +1,6 @@
+{
+  "name": "AI Symptom Checker and Triage Tool",
+  "description": "An educational AI symptom checker and triage tool providing preliminary assessments and suggested care levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
