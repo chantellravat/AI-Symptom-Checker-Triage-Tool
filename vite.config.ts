@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/AI-Symptom-Checker-Triage-Tool/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
